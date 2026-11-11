@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">fyp</string>
+    <string name="facebook_app_id">711161884759614</string>
+    <string name="fb_login_protocol_scheme">fb711161884759614</string>
+    <string name="facebook_client_token">d45594dda7f8bc71c90317473778fa0f</string>
+</resources>
